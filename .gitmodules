@@ -1,3 +1,6 @@
 [submodule "BehaviourToolkit"]
 	path = BehaviourToolkit
 	url = https://github.com/ThePat02/BehaviourToolkit.git
+[submodule "FiniteStateMachine"]
+	path = FiniteStateMachine
+	url = https://github.com/HexagonNico/Godot-FiniteStateMachine.git
