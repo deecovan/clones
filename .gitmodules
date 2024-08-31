@@ -1,0 +1,3 @@
+[submodule "BehaviourToolkit"]
+	path = BehaviourToolkit
+	url = https://github.com/ThePat02/BehaviourToolkit.git
