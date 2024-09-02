@@ -4,3 +4,6 @@
 [submodule "FiniteStateMachine"]
 	path = FiniteStateMachine
 	url = https://github.com/HexagonNico/Godot-FiniteStateMachine.git
+[submodule "LimboAI"]
+	path = LimboAI
+	url = https://github.com/limbonaut/limboai.git
