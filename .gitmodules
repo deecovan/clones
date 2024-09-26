@@ -4,6 +4,12 @@
 [submodule "FiniteStateMachine"]
 	path = FiniteStateMachine
 	url = https://github.com/HexagonNico/Godot-FiniteStateMachine.git
+[submodule "GDNative-Ropesim"]
+	path = GDNative-Ropesim
+	url = https://github.com/mphe/GDNative-Ropesim.git
+[submodule "Godot-Docs"]
+	path = Godot-Docs
+	url = https://github.com/godotengine/godot-docs.git
 [submodule "LimboAI"]
 	path = LimboAI
 	url = https://github.com/limbonaut/limboai.git
